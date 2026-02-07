@@ -20,18 +20,27 @@ This folder contains basic Python examples to understand variables and built-in 
 
 
 # Day 2 : Python Conditional Statements 🐍
-
-This repository contains Python examples demonstrating the use of conditional statements and ternary operators.
+Conditional-Statements/
+│
+├── grade_system.py
+│   └── if-elif-else grade calculation
+│
+├── ternary_operator.py
+│   └── single-line if / ternary examples
+│
+├── salary_tax.py
+│   └── clever conditional tax calculation
+│
+└── README.md
+    └── project description and concepts covered
 
 ## Topics Covered
 
 if-elif-else conditional statements
 
-Grade calculation logic
-
 Single-line if (ternary operator)
 
-Conditional expressions using indexing
+clever if (ternary operator)
 
 ### Code Overview
 1. Grade System
@@ -51,6 +60,9 @@ Calculates tax based on salary using a compact conditional expression:
 10% tax for salary ≤ 50,000
 
 20% tax for salary > 50,000
+
+
+
 
 ## files
 * `conditional_statements.py` –  examples of Python conditional statements.
