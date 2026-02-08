@@ -67,5 +67,29 @@ Calculates tax based on salary using a compact conditional expression:
 ## files
 * `conditional_statements.py` –  examples of Python conditional statements.
 
+## Day 3: Operators & Type Conversion 🐍
+
+This folder contains basic Python examples to understand operators and type conversion.
+
+## Topics Covered
+
+Arithmetic Operators (+, -, *, /)
+
+Assignment Operators
+
+Comparison Operators
+
+Logical Operators
+
+Type Conversion
+
+int(), float(), str()
+
+Practice Programs 🧠💻
+Practice Program 1: Sum of Two Numbers
+Practice Program 2: Area of a Square
+
+
+
 
 
