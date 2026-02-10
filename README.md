@@ -90,6 +90,28 @@ Practice Program 1: Sum of Two Numbers
 Practice Program 2: Area of a Square
 
 
+# Day 4: String Functions 🐍
+
+This day focuses on understanding **Python strings** and commonly used **string methods**.
+
+## Topics Covered
+- String basics
+- `endswith()`
+- `capitalize()`
+- `replace()`
+- `find()`
+- `count()`
+- String formatting
+
+## Practice
+- Check string endings
+- Modify and replace words
+- Find characters in a string
+- Count word occurrences
+
+📌 These concepts help in text processing and data handling in Python.
+
+
 
 
 
