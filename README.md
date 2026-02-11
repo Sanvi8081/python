@@ -111,6 +111,58 @@ This day focuses on understanding **Python strings** and commonly used **string 
 
 📌 These concepts help in text processing and data handling in Python.
 
+## Day 5: Lists & Tuples 🐍
+📌 Overview
+
+Learned how to work with Lists and Tuples in Python, including slicing, methods, and basic problem-solving.
+
+## Topics Covered
+Lists
+
+List creation
+
+List slicing (positive & negative indexing)
+
+append()
+
+insert()
+
+reverse()
+
+sort() (ascending & descending)
+
+Copying lists
+
+Tuples
+
+Tuple creation
+
+count() method
+
+Immutable nature of tuples
+
+🧪 Practice
+
+Performed list slicing on fruits list
+
+Used list methods (append, insert, reverse, sort)
+
+Took user input and stored values in a list
+
+Checked if a list is a palindrome
+
+Counted occurrences of "A" grade in a tuple
+
+💡 Key Takeaways
+
+Lists are mutable (can be changed).
+
+Tuples are immutable (cannot be changed).
+
+sort() works only with lists.
+
+count() works with both lists and tuples
+
 
 
 
