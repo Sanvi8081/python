@@ -163,6 +163,43 @@ sort() works only with lists.
 
 count() works with both lists and tuples
 
+Day 6: Sets 🐍
+📌 Overview
+
+Learned how to work with Sets in Python, including set creation, set methods, and set operations like union and intersection.
+
+📚 Topics Covered
+🔹 Set Basics
+
+Creating a set using { }
+
+Removing duplicate values automatically
+
+Checking the type using type()
+
+Creating an empty set using set()
+
+🔹 Set Methods
+
+add() → Add an element
+
+remove() → Remove a specific element
+
+pop() → Remove a random element
+
+clear() → Remove all elements
+
+🔹 Set Operations
+
+union() → Combine two sets
+
+intersection() → Find common elements
+
+🔹 Special Case Practice
+
+Storing 9 and 9.0 separately in a set
+
+Using built-in data types (tuples) to differentiate values
 
 
 
