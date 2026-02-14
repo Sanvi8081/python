@@ -163,7 +163,7 @@ sort() works only with lists.
 
 count() works with both lists and tuples
 
-Day 6: Sets 🐍
+## Day 6: Sets 🐍
 📌 Overview
 
 Learned how to work with Sets in Python, including set creation, set methods, and set operations like union and intersection.
@@ -201,6 +201,91 @@ Storing 9 and 9.0 separately in a set
 
 Using built-in data types (tuples) to differentiate values
 
+
+## Day 7: For Loop 🔁🐍
+
+📌 Overview
+Learned how to use for loops in Python to iterate over sequences like lists and ranges, including for-else, range(), and pass.
+
+📚 Topics Covered
+
+🔹 For Loop Basics
+
+Used to iterate over lists, tuples, strings, etc.
+
+Executes a block of code for each element.
+
+🔹 For Loop with else
+
+else runs after the loop finishes normally.
+
+Does not run if loop is stopped using break.
+
+🔹 Using range()
+
+Generates a sequence of numbers.
+
+range(n) → 0 to n-1
+
+range(start, stop, step) can customize the sequence.
+
+🔹 pass Statement
+
+Placeholder statement.
+
+Used when a loop is required but no action is needed.
+
+🔹 Practice Problems
+
+Sum of first n numbers (using while)
+
+Factorial of n (using for)
+
+🎯 Key Points
+
+✔ for loop is used for iteration
+✔ Works with sequences (list, range, string, etc.)
+✔ else runs after normal loop completion
+✔ range() helps generate number sequences
+✔ pass does nothing (used as placeholder)
+
+📌 Overview
+Learned how to use while loops to repeat code as long as a condition is True.
+
+📚 Topics Covered
+
+🔹 While Loop Basics
+
+Runs while condition is True
+
+Condition checked before each iteration
+
+🔹 Printing Numbers
+
+1 to 100
+
+100 to 1
+
+🔹 Multiplication Table
+
+Printed table of a number using while
+
+🔹 Traversing List/Tuple
+
+Used index with len() to access elements
+
+🔹 break and continue
+
+break → Stops loop
+
+continue → Skips one iteration
+
+🎯 Key Points
+
+✔ Used when iterations are condition-based
+✔ Must update variable to avoid infinite loop
+✔ Can be used for searching and counting
+✔ break and continue control loop flow
 
 
 
