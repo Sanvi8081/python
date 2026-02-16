@@ -287,5 +287,76 @@ continue → Skips one iteration
 ✔ Can be used for searching and counting
 ✔ break and continue control loop flow
 
+## Day 8 – Python Functions (Short README)
+🔹 Overview
+
+This program demonstrates the basics of Python functions, including function definition, parameters, return values, default arguments, and simple practice problems like factorial, list handling, and number evaluation.
+
+🔹 Concepts Covered
+
+Function Definition (def)
+
+Function Call & Arguments
+
+Parameters vs Arguments
+
+Return Statement
+
+Built-in vs User-defined Functions
+
+Default Parameters
+
+Loops inside Functions
+
+Basic Problem Solving using Functions
+
+🔹 Functions Implemented
+
+calcsum(a, b, c)
+Calculates and prints the sum of three numbers.
+
+avg(a, b, c)
+Computes the average of three numbers.
+
+cal_prod(a=1, b=1)
+Demonstrates default parameters by multiplying two numbers (default = 1).
+
+print_len(cities)
+Prints the length of a list.
+
+print_list(list)
+Prints all elements of a list in a single line.
+
+cal_fact(n)
+Calculates the factorial of a given number using a loop.
+
+converter(usd_val)
+Converts USD to INR using a fixed conversion rate.
+
+evaluator(n)
+Checks whether a number is odd or even.
+
+🔹 Built-in Functions Used
+
+print()
+
+len()
+
+range()
+
+type()
+
+🔹 Key Learnings
+
+Functions help in code reusability and modularity.
+
+Parameters allow passing data to functions.
+
+Return values make functions reusable in larger programs.
+
+Default parameters prevent errors when arguments are not passed.
+
+Functions can be used to solve real-world problems like conversions, factorial, and evaluations.
+
 
 
