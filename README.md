@@ -358,5 +358,32 @@ Default parameters prevent errors when arguments are not passed.
 
 Functions can be used to solve real-world problems like conversions, factorial, and evaluations.
 
+## Day 9 – Recursion in Python 
+
+This project covers the basics of recursion in Python using simple examples like printing numbers, factorial calculation, sum of natural numbers, and recursive list traversal. It focuses on understanding base cases and recursive function calls.
+
+🧠 Concepts Covered
+
+Recursion
+
+Base Case & Recursive Calls
+
+Factorial using Recursion
+
+Sum of First N Natural Numbers
+
+List Traversal using Recursion
+
+🛠️ Implemented Functions
+
+show(n) → Prints numbers from n to 1 recursively
+
+fact(n) → Calculates factorial of a number
+
+sum(n) → Finds sum of first n natural numbers
+
+print_list(list, idx=0) → Prints list elements recursively
+
+
 
 
