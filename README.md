@@ -385,5 +385,41 @@ sum(n) → Finds sum of first n natural numbers
 print_list(list, idx=0) → Prints list elements recursively
 
 
+##  Python File Handling (Basic Practice)
+📌 Overview
+
+This project demonstrates basic File I/O operations in Python including reading, writing, replacing text, and searching content inside files. It is a beginner-friendly practice script to understand how file handling works.
+
+🛠️ Features
+
+Read file content (read, readline)
+
+Write and overwrite files (w, r+ modes)
+
+Use with statement for safe file handling
+
+Replace text in a file (Java → Python)
+
+Search a word in a file
+
+Create and manage text files
+
+🧠 Concepts Covered
+
+File modes: r, w, r+
+
+Text manipulation using replace()
+
+Word searching using find()
+
+Automatic file closing with with
+
+🎯 Purpose
+
+Built for practice to strengthen fundamentals of Python file handling and understand real-world file operations in a simple way.
+
+
+
+
 
 
