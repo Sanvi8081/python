@@ -418,6 +418,42 @@ Automatic file closing with with
 
 Built for practice to strengthen fundamentals of Python file handling and understand real-world file operations in a simple way.
 
+## DAY 11 🐍 Python OOP Basics – Classes & Constructors
+
+This repository contains beginner-friendly examples of Object-Oriented Programming (OOP) in Python using classes, objects, and constructors.
+
+📌 Major Concepts Covered
+
+Class and Object creation
+
+Class attributes
+
+Constructor (__init__)
+
+Parameterized constructor
+
+Instance variables using self
+
+💡 Description
+
+The code demonstrates:
+
+Creating a Student class and accessing its attribute through an object
+
+Defining a Car class with multiple attributes
+
+Using a parameterized constructor in the Teacher class to initialize object data automatically when an object is created
+
+🧠 Key Learning
+
+Classes act as blueprints for objects
+
+Objects store data using instance variables
+
+__init__() initializes values during object creation
+
+self refers to the current instance of the class
+
 
 
 
