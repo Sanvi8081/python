@@ -1,5 +1,5 @@
 # PYTHON 
-Learning Python step by step with daily GitHub commits...
+Learning Python step by step with daily GitHub commits....
 
 # Day 1: Variables & Data Types 🐍
 
